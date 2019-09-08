@@ -3,35 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/about/</loc>
+    <loc>https://www.rajeevpiyare.com/series/hugo/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/contact/</loc>
+    <loc>https://www.rajeevpiyare.com/posts/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/projects/</loc>
+    <loc>https://www.rajeevpiyare.com/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/publications/</loc>
+    <loc>https://www.rajeevpiyare.com/series/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/categories/</loc>
+    <loc>https://www.rajeevpiyare.com/series/theme/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/</loc>
+    <loc>https://www.rajeevpiyare.com/posts/creating-a-new-theme/</loc>
+    <lastmod>2019-09-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/series/</loc>
+    <loc>https://www.rajeevpiyare.com/about/</loc>
   </url>
   
   <url>
-    <loc>https://rajeev1986.github.io/rajeev.github.io/tags/</loc>
+    <loc>https://www.rajeevpiyare.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rajeevpiyare.com/projects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rajeevpiyare.com/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rajeevpiyare.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.rajeevpiyare.com/tags/</loc>
   </url>
   
 </urlset>

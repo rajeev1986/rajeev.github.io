@@ -2,49 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rajeev Piyare</title>
-    <link>https://rajeev1986.github.io/rajeev.github.io/</link>
+    <link>https://www.rajeevpiyare.com/</link>
     <description>Recent content on Rajeev Piyare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://rajeev1986.github.io/rajeev.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.rajeevpiyare.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Tutorials coming soon!</title>
+      <link>https://www.rajeevpiyare.com/posts/creating-a-new-theme/</link>
+      <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rajeevpiyare.com/posts/creating-a-new-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://rajeev1986.github.io/rajeev.github.io/about/</link>
+      <link>https://www.rajeevpiyare.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajeev1986.github.io/rajeev.github.io/about/</guid>
+      <guid>https://www.rajeevpiyare.com/about/</guid>
       <description>About Me Bula! I am originally from the beautiful islands of Fiji. After growing up in Fiji, studying in Mokpo, South Korea, Zurich, Switzerland, and Trento, Italy, I currently live and work in the beautiful city of Chicago, USA. Education Before joining Amber Agriculture in Chicago as a Wireless Systems Engineer, I obtained my Ph.D. in Information and Communication Technology from the University of Trento, Italy under the supervision of Dr.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rajeev1986.github.io/rajeev.github.io/contact/</link>
+      <link>https://www.rajeevpiyare.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajeev1986.github.io/rajeev.github.io/contact/</guid>
-      <description>Contact Me If you want to get in touch with me concerning my research or any other concern please feel free to contact me via Email or LinkedIn. I will reply to your request (at times with a bit delay) and I am looking forward to making new interesting and promising collaborations! At this point, I want to thank you for visiting my website. Private Consulting Available for consulting in Internet of Things, including: system implementations in embedded C, low-power wireless protocols, consulting, and code development using Contiki-NG.</description>
+      <guid>https://www.rajeevpiyare.com/contact/</guid>
+      <description> Contact Me If you want to get in touch with me concerning my research or any other concern please feel free to contact me via Email or LinkedIn. At this point, I want to thank you for visiting my website. Private Consulting Available for consulting in Internet of Things, including: system implementations in embedded C, low-power wireless protocols, consulting, and code development using Contiki-NG. </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rajeev1986.github.io/rajeev.github.io/projects/</link>
+      <link>https://www.rajeevpiyare.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajeev1986.github.io/rajeev.github.io/projects/</guid>
+      <guid>https://www.rajeevpiyare.com/projects/</guid>
       <description>Open-Source Projects  I have really become a huge believer in the power of open source - Peter Levine
  I have worked on several topics in wireless sensor and actuator networks for enabling low-power IoT, mainly wake-up radio based communication protocols, design of WaCo simulator, an Open Source Hardware-Software Platform for Enabling Rapid Research in LPWANs: KRATOS, NB-IoT, and other debugging tools. Source code for some of my projects can be found on my GitHub profile or my former research group page.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rajeev1986.github.io/rajeev.github.io/publications/</link>
+      <link>https://www.rajeevpiyare.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rajeev1986.github.io/rajeev.github.io/publications/</guid>
-      <description>Ph.D. Thesis R.Piyare, “Wake-up Radio based Approach to Low-Power and Low-Latency Communication in the Internet of Things,” Doctoral dissertation, University of Trento, 2019. [PDF] Journal Articles 1. R.Piyare, A.L.Murphy, M.Magno and L.Benini, “On-Demand LoRa: Asynchronous TDMA for Energy Efficient and Low Latency Communication in IoT,” MDPI Sensors, vol.18, no.11, pp.3718-3739, November, 2018. (Impact Factor: 2.475) [PDF] 2. R.Piyare, A.L.Murphy, C.Kiraly, P.Tosato and D.Brunelli, “Ultra Low Power Wake-Up Radios: A Hardware and Networking Survey,” IEEE Communications Surveys &amp; Tutorials, vol.</description>
+      <guid>https://www.rajeevpiyare.com/publications/</guid>
+      <description>Journal Articles 1. R.Piyare, A.L.Murphy, M.Magno and L.Benini, “On-Demand LoRa: Asynchronous TDMA for Energy Efficient and Low Latency Communication in IoT,” MDPI Sensors, vol.18, no.11, pp.3718-3739, November, 2018. (Impact Factor: 2.475) [PDF] 2. R.Piyare, A.L.Murphy, C.Kiraly, P.Tosato and D.Brunelli, “Ultra Low Power Wake-Up Radios: A Hardware and Networking Survey,” IEEE Communications Surveys &amp; Tutorials, vol.19, no.4, pp.2117-2157, Fourthquarter 2017. (Impact Factor: 17.188) [PDF] 3. R.Piyare and S.R.Lee, “Activity Recognition of Workers and Passengers onboard Ships Using Multimodal Sensors in a Smartphone,” The Journal of Korea Information and Communications Society, vol.</description>
     </item>
     
   </channel>
