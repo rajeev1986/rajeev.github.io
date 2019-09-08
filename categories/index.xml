@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Rajeev Piyare</title>
-    <link>https://www.rajeevpiyare.com/categories/</link>
+    <link>https://rajeev1986.github.io/rajeev.github.io/categories/</link>
     <description>Recent content in Categories on Rajeev Piyare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://www.rajeevpiyare.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rajeev1986.github.io/rajeev.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

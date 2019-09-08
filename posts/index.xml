@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Rajeev Piyare</title>
-    <link>https://www.rajeevpiyare.com/posts/</link>
+    <link>https://rajeev1986.github.io/rajeev.github.io/posts/</link>
     <description>Recent content in Posts on Rajeev Piyare</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 07 Sep 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.rajeevpiyare.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rajeev1986.github.io/rajeev.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tutorials coming soon!</title>
-      <link>https://www.rajeevpiyare.com/posts/creating-a-new-theme/</link>
+      <link>https://rajeev1986.github.io/rajeev.github.io/posts/creating-a-new-theme/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.rajeevpiyare.com/posts/creating-a-new-theme/</guid>
+      <guid>https://rajeev1986.github.io/rajeev.github.io/posts/creating-a-new-theme/</guid>
       <description></description>
     </item>
     
